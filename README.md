@@ -22,6 +22,7 @@ http://www.bubuko.com/infodetail-1172011.html
 http://www.cnblogs.com/meitian/p/3699223.html
 http://www.cnblogs.com/yinxiangnan-charles/p/5928689.html
 http://www.aichengxu.com/view/39904
+http://blog.csdn.net/u012235274/article/details/52588690
 
 总结：
  新手遇到了很多坑，包括中间还出了环境问题，如：
