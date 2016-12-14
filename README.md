@@ -11,7 +11,7 @@ test.csv: list of 1783 test images. Each row contains ImageId and image data as 
 
 submissionFileFormat.csv: list of 27124 keypoints to predict. Each row contains a RowId, ImageId, FeatureName, Location. FeatureName are "left_eye_center_x," "right_eyebrow_outer_end_y," etc. Location is what you need to predict. 
 
-其中face文件夹中，是我将网站提供的数值，还原成了图片，保存在此文件夹.
+其中face文件夹中，是我将网站提供的数值，还原成了图片，保存在此文件夹.(注：数据集太大，无法传到git上，稍后将放到网盘上)
 如果你们要在本地运行，请注意将代码中的路径都换成你们自己的路径，也就是数据的路径。
 
 各python文件的含义：
