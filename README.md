@@ -4,6 +4,9 @@
 kaggle地址：https://www.kaggle.com/c/facial-keypoints-detection/details/getting-started-with-r
 
 
+若kaggle的数据无法获取，可以去我的网盘中下载训练数据，然后修改成你自己的路径即可。地址：http://pan.baidu.com/s/1c2f1XSk
+
+
 数据介绍：
 training.csv: list of training 7049 images. Each row contains the (x,y) coordinates for 15 keypoints, and image data as row-ordered list of pixels.
 
